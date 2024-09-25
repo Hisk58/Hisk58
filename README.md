@@ -1,5 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hakan Kece
-==================================================================================================================================Cyber Security Graduate | DevOps Engineer-----------------------------------------* 🌍  I'm based in Amsterdam* 🖥️  See my portfolio at [Portfolio](http://www.linkedin.com/in/hakankece/)* 🧠  I'm learning Ins- and outs of Cyber and Information Security, Dev(Sec)Ops and Containerization (Kubernetes / Docker)* 🤝  I'm open to collaborating on Any projects with Python, C, PowerShell, Bash and anything regarding DevSecOps, K8s and Docker.
+==================================================================================================================================Cyber Security Graduate | DevOps Engineer-----------------------------------------* 
+🌍  I'm based in Amsterdam* 
+🖥️  See my portfolio at [Portfolio](http://www.linkedin.com/in/hakankece/)* 
+🧠  I'm learning Ins- and outs of Cyber and Information Security, Dev(Sec)Ops and Containerization (Kubernetes / Docker)* 
+🤝  I'm open to collaborating on Any projects with Python, C, PowerShell, Bash and anything regarding DevSecOps, K8s and Docker.
 
 ### Skills
 
